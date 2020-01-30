@@ -7,17 +7,30 @@
 
 import csv
 import os
+
 #assign a variable for the file to load and the path.
-
 file_to_load =  os.path.join("Resources", "election_results.csv")
-
+#Assign a variable for output file
 file_to_save = os.path.join("analysis", "election_analysis.txt")
+
+#1 Initialize total_vote accumulator as zero 
+total_votes = 0
+
 #Read the file object with the reader function 
 with open(file_to_load) as election_data:
-   file_reader = csv.reader(election_data)
-   headers = next(file_reader)
-   print(headers)
-   
+    file_reader = csv.reader(election_data)
+    #read and print the header row 
+    headers = next(file_reader)
+    for row in file_reader:
+        #2 add to total vote count
+        total_votes+=1 
+#3 print total votes 
+print(total_votes)
+
+
+        
+
+
 
 
 
