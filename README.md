@@ -20,13 +20,13 @@ The project is to complete the election audit of a recent local congressional el
 The analysis of the election shows that: 
 - The total votes were 369,711 votes 
 - The cadidates were:
-	Charles Casper Stockham
-	Diana DeGette
-	Raymon Anthony Doane 
+	- Charles Casper Stockham
+	- Diana DeGette
+	- Raymon Anthony Doane 
 - The candidate results were: 
-	Charles Casper Stockham: 85,213 votes (23.0%)
-	Diana Degette: 272,892 votes (73.8%)
-  Raymon Anthony Doane: 11,606 votes (3.1%) 
+	- Charles Casper Stockham: 85,213 votes (23.0%)
+	- Diana Degette: 272,892 votes (73.8%)
+  	- Raymon Anthony Doane: 11,606 votes (3.1%) 
 - The winner of the election was: 
   Diana Degette who received 272,892 votes whieh represented 73.8% of total votes. 
   
@@ -44,9 +44,9 @@ The Election Commissions wanted to find out the county with the largest turnout 
 
 The analysis shows that: 
 - The county vote results were: 
-  Jefferson with 38,855 votes (10.5%)
-  Denver with 306,055 votes (82.8%)
-  Arapahoe with 24,801 votes (6.7%)
+  	- Jefferson with 38,855 votes (10.5%)
+  	- Denver with 306,055 votes (82.8%)
+  	- Arapahoe with 24,801 votes (6.7%)
 - The county with the largest turnout was: Denver
 
 
